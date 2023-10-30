@@ -1,1 +1,3 @@
-# sarah
+# meteor npm install
+
+meteor
